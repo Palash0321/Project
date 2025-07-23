@@ -34,3 +34,7 @@ The project addresses challenges in data quality, feature engineering, and data 
 * `Project_5.pbix`: Power BI Desktop file containing the interactive sales analytics dashboard.
 * `project.pdf`: Project documentation outlining the goals and scope.
 
+## Dashboard
+<img width="1148" height="654" alt="image" src="https://github.com/user-attachments/assets/104592d1-be8a-4a7d-b390-f58bd5e60dc8" />
+
+
